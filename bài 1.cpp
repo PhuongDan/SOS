@@ -4,9 +4,9 @@ int main(){
 	printf("Nhap a=");
 	scanf("%d",&a);
 	if(a > 0){
-		printf("a la so duong");
+		printf("%d la so duong",a);
 	}else{
-	printf("a la so am");
+	printf("%d la so am",a);
 	} 
 	 
 }
