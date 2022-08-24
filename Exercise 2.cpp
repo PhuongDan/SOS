@@ -8,6 +8,6 @@ void reverseArray(int ary[]){
 	int main(void)
 {
     int ary[3] = {1,2,3};
-printf("%d",ary[3]);
+printf("%d",ary[3] );
 }
 	
